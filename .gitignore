@@ -1,0 +1,19 @@
+# IntelliJ project files
+
+*.iml
+/.idea
+
+# Lein/Java build files and dirs
+
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+/.classpath
